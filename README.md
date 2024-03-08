@@ -17,9 +17,9 @@ ___
 
 ## Core Java Development
 
-- [тема 1](core_java_development.md#тема-1)
-- [тема 2](core_java_development.md#тема-2)
-- [тема 3](core_java_development.md#тема-3)
+- [Что такое ООП?](core_java_development.md#что-такое-ооп)
+- [Назовите основные принципы ООП.](core_java_development.md#назовите-основные-принципы-ооп)
+- [Что такое "инкапсуляция"?](core_java_development.md#что-такое-инкапсуляция)
 
 [к оглавлению](#вопросы-для-собеседования-на-java-developer)
 

@@ -8,30 +8,9 @@ ___
 
 ___
 
-- [Core Java Development](#core_java_development)
+- [Core Java Development](#core-java-development)
 
 ___
-
-f
-
-f
-
-f
-
-f
-
-f
-
-
-f
-
-f
-
-f
-
-f
-
-f
 
 ## Core Java Development
 
